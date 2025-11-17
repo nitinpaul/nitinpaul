@@ -1,2 +1,2 @@
-## नमस्ते (Namaste) :pray: I'm Nitin!
-Full-stack developer and Data scientist
+# നമസ്കാരം (Namaskaram) :pray: I'm Nitin
+Biriyani supremacist and Polars aficionado
